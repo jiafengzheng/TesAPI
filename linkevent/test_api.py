@@ -32,5 +32,4 @@ def test02():
     assert 1
 
 
-if __name__ == '__main__':
-    pytest.main()
+
